@@ -1,0 +1,27 @@
+.header{
+color: green;
+font-size: 30px;
+    
+
+}
+.header h1:hover{
+    background-color: tomato;
+}
+div{
+    border:;
+    width:;
+}
+#boy{
+    position: relative;
+    top:-150px;
+}
+
+#water{
+    position: relative;
+    top:140px;
+    
+}
+#ring{
+    position: relative;
+    top: 0px;
+}
